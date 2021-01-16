@@ -3,5 +3,5 @@
 - CSS Animation
 - CSS Grid
 
-## Page Deployement:
+## Page Deployment:
 - Github Page 
